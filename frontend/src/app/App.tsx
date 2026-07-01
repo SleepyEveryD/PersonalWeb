@@ -481,7 +481,7 @@ function Nav() {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5 }}
         >
-          SleepyEveryD
+          Jiaxin Yang
         </motion.span>
 
         <div className="hidden md:flex items-center gap-7">
