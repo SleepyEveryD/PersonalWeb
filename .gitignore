@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+frontend/dist/
+backend/dist/
+
+# env files (keep .env.example)
+.env
+.env.local
+*.local
+
+# logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/
