@@ -621,10 +621,10 @@ function HeroSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.25, duration: 0.85, ease: [0.16, 1, 0.3, 1] }}
             >
-              Sleepy
+              Jiaxin
               <br />
               <GradientText gradient="linear-gradient(135deg, #3B82F6 0%, #8B5CF6 50%, #06B6D4 100%)">
-                EveryD
+                Yang
               </GradientText>
             </motion.h1>
 
